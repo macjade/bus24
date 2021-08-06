@@ -29,37 +29,37 @@
 
 #### Home
 <div class="row  justify-content-center">
-  <img class="img-fluid text-center" src = "https://github.com/macjade/bus24/images/bus24-home.PNG" width="50%" height="50%">
+  <img class="img-fluid text-center" src = "https://github.com/macjade/bus24/blob/main/images/bus24-home.PNG" width="50%" height="50%">
 </div>
 <br>
 
 #### Service
 <div class="row  justify-content-center">
-  <img class="img-fluid text-center" src = "https://github.com/macjade/bus24/images/service.PNG" width="50%" height="50%">
+  <img class="img-fluid text-center" src = "https://github.com/macjade/bus24/blob/main/images/service.PNG" width="50%" height="50%">
 </div>
 <br>
 
 #### Search Result
 <div class="row  justify-content-center">
-  <img class="img-fluid text-center" src = "https://github.com/macjade/bus24/images/search_result.PNG" width="50%" height="50%">
+  <img class="img-fluid text-center" src = "https://github.com/macjade/bus24/blob/main/images/search_result.PNG" width="50%" height="50%">
 </div>
 <br>
 
 #### Find A Taxi
 <div class="row  justify-content-center">
-  <img class="img-fluid text-center" src = "https://github.com/macjade/bus24/images/taxi.PNG" width="50%" height="50%">
+  <img class="img-fluid text-center" src = "https://github.com/macjade/bus24/blob/main/images/taxi.PNG" width="50%" height="50%">
 </div>
 <br>
 
 #### Payment Preview
 <div class="row  justify-content-center">
-  <img class="img-fluid text-center" src = "https://github.com/macjade/bus24/images/payment-preview.PNG" width="50%" height="50%">
+  <img class="img-fluid text-center" src = "https://github.com/macjade/bus24/blob/main/images/payment-preview.PNG" width="50%" height="50%">
 </div>
 <br>
 
 #### Invoice
 <div class="row  justify-content-center">
-  <img class="img-fluid text-center" src = "https://github.com/macjade/bus24/images/invoice.PNG" width="50%" height="50%">
+  <img class="img-fluid text-center" src = "https://github.com/macjade/bus24/blob/main/images/invoice.PNG" width="50%" height="50%">
 </div>
 <br>
 
