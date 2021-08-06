@@ -22,9 +22,6 @@
 
 8. Go to url `http://localhost/bus24`
 
-   ```procfile
-   worker: python script.py
-   ```
 # Screenshots
 
 #### Home
