@@ -1,0 +1,453 @@
+{
+  "buses": [
+    {
+      "id": 1,
+      "Name": "Audi",
+      "image": "assets/img/bus/audi/logo.jpg",
+      "status": "Active",
+      "verified": "Yes"
+    },
+    {
+      "id": 2,
+      "Name": "Lexus",
+      "image": "assets/img/bus/lexus/logo.jpg",
+      "status": "Active",
+      "verified": "Yes"
+    },
+    {
+      "id": 3,
+      "Name": "Mercedes-benz",
+      "image": "assets/img/bus/benz/logo.jpg",
+      "status": "Active",
+      "verified": "Yes"
+    },
+    {
+      "id": 4,
+      "Name": "Toyota",
+      "image": "assets/img/bus/toyota/logo.jpg",
+      "status": "Active",
+      "verified": "Yes"
+    },
+    {
+      "id": 5,
+      "Name": "Ford",
+      "image": "assets/img/bus/ford/404.png",
+      "status": "Pending",
+      "verified": "no"
+    },
+    {
+      "id": 6,
+      "Name": "Aston-Martin",
+      "image": "assets/img/bus/aston-Martin/404.png",
+      "status": "Pending",
+      "verified": "no"
+    },
+    {
+      "id": 7,
+      "Name": "Fiat",
+      "image": "assets/img/bus/fiat/b_repair.jpg",
+      "status": "Pending",
+      "verified": "no"
+    },
+    {
+      "id": 8,
+      "Name": "Bmw",
+      "image": "assets/img/bus/bmw/mobile-app.png",
+      "status": "Inactive",
+      "verified": "no"
+    },
+    {
+      "id": 9,
+      "Name": "Chevrolet",
+      "image": "assets/img/bus/chevrolet/",
+      "status": "Active",
+      "verified": "Yes"
+    }
+  ],
+  "Audi": [
+    {
+      "coaches": [
+        {
+          "Name": "Neoplan Skyline",
+          "rent": "₦8999",
+          "description": "The Neoplan Skyline is double-deck multi-axle luxury touring coach built by German coach manufacturer Neoplan",
+          "fuel": "Diesel",
+          "trans": "Automatic",
+          "images": "assets/img/bus/audi/coaches/neoplan/5.jpg"
+        }
+      ],
+      "minibus": [
+        {
+          "Name": "Badge MPV",
+          "rent": "₦3999",
+          "description": "The Badge MPV is passenger van with seating of up to 8 people. it is a light commercial vehicle used street maneuver.",
+          "fuel": "Petrol",
+          "trans": "Automatic",
+          "images": "assets/img/bus/audi/minibus/badge/mpv1.jpg"
+        }
+      ]
+    }
+  ],
+  "Lexus": [
+    {
+      "minibus": [
+        {
+          "Name": "Lexus LM",
+          "rent": "₦3999",
+          "description": "The Lexus LM is  an ultra-luxury minivan which has switched focus from the western idea that people hauler are about practicality.",
+          "fuel": "Petrol",
+          "trans": "Automatic",
+          "images": "assets/img/bus/lexus/minibus/lm/lm3.jpg"
+        }
+      ]
+    }
+  ],
+  "Mercedes-benz": [
+    {
+      "coaches": [
+        {
+          "Name": "Benz Tourismo",
+          "rent": "₦9999",
+          "description": "The Tourismo combines maximum comfort, reliability and outstanding economy. it is an integral coach manufactured by Mercedes-Benz since 1994",
+          "fuel": "Diesel",
+          "trans": "Automatic",
+          "images": "assets/img/bus/benz/coaches/tourismo/1.jpg"
+        },
+        {
+          "Name": "Benz Travego",
+          "rent": "₦10999",
+          "description": "The Travego is an integral coach produced between 1999 and 2017 by Mercedes-Benz/EvoBus in plants in Neu-Ulm and Mannheim in Germany and in Hosdere in Turkey",
+          "fuel": "Diesel",
+          "trans": "Automatic",
+          "images": "assets/img/bus/benz/coaches/travego/tav1.jpg"
+        }
+      ],
+      "minibus": [
+        {
+          "Name": "Benz Metris",
+          "rent": "₦2999",
+          "description": "The Mercedes-Benz Metris mid-sized utility van is here to stand up to the demands of today. Explore the options and features that offers the comfort, room and maneuverability you need.",
+          "fuel": "Petrol",
+          "trans": "Automatic",
+          "images": "assets/img/bus/benz/minibus/metris/metr1.jpg"
+        },
+        {
+          "Name": "Benz Sprinter",
+          "rent": "₦5999",
+          "description": "The Sprinter is a light commercial vehicle built by Daimler AG of Stuttgart. Explore the custom fit options and features that make the Sprinter Van the most advanced and versatile commercial van on the road today.",
+          "fuel": "Petrol",
+          "trans": "Automatic",
+          "images": "assets/img/bus/benz/minibus/sprinter/4.jpg"
+        }
+      ]
+    }
+  ],
+  "Toyota": [
+    {
+      "coaches": [
+        {
+          "Name": "Toyota Coaster",
+          "rent": "₦6999",
+          "description": "The Coaster is a single-decker bus produced by Toyota Motor Corporation. It provides smooth & comfortable transportation in one of the most dependable people carriers on the market.",
+          "fuel": "Diesel",
+          "trans": "Manual",
+          "images": "assets/img/bus/toyota/coaches/coaster/coaster3.jpg"
+        }
+      ],
+      "minibus": [
+        {
+          "Name": "Toyota Sienna",
+          "rent": "₦8999",
+          "description": "The Toyota Sienna ranks midpack among minibus. It has a spacious cabin and a smooth ride, but it feels less modern and upscale than higher-ranked rivals.",
+          "fuel": "Petrol",
+          "trans": "Automatic",
+          "images": "assets/img/bus/toyota/minibus/sienna/1.jpg"
+        }
+      ],
+      "neighbourhood": [
+        {
+          "Name": "Toyota Hiace",
+          "rent": "₦8999",
+          "description": "The Toyota Hiace has nice appearance design, spacious indoor space and functional specification have been evaluated.",
+          "fuel": "Petrol",
+          "trans": "Automatic",
+          "images": "assets/img/bus/toyota/neighbourhood/hiace/2.jpg"
+        }
+      ]
+    }
+  ],
+  "Acura": [
+    {}
+  ],
+  "Alfa-Romero": [
+    {}
+  ],
+  "Aston-Martin": [
+    {}
+  ],
+  "Bmw": [
+    {}
+  ],
+  "Buick": [
+    {}
+  ],
+  "Chevrolet": [
+    {}
+  ],
+  "Chrysler": [
+    {}
+  ],
+  "Fiat": [
+    {}
+  ],
+  "Ford": [
+    {}
+  ],
+  "Geely": [
+    {}
+  ],
+  "General-Motors": [
+    {}
+  ],
+  "GMC": [
+    {}
+  ],
+  "Honda": [
+    {}
+  ],
+  "Hyundia": [
+    {}
+  ],
+  "Infiniti": [
+    {}
+  ],
+  "Kia": [
+    {}
+  ],
+  "Mazda": [
+    {}
+  ],
+  "Mini": [
+    {}
+  ],
+  "Mitsubishi": [
+    {}
+  ],
+  "Nissan": [
+    {}
+  ],
+  "Peugeot": [
+    {}
+  ],
+  "Ram": [
+    {}
+  ],
+  "Renault": [
+    {}
+  ],
+  "Subaru": [
+    {}
+  ],
+  "Suzuki": [
+    {}
+  ],
+  "Tata-Motors": [
+    {}
+  ],
+  "Volkswagen": [
+    {}
+  ],
+  "Volvo": [
+    {}
+  ],
+  "Taxi": [
+    {
+      "7/8 BUS STOP": "₦ 100",
+      "ABULEGBA": "₦ 150",
+      "AGEGE PEN CINEMA": "₦ 200",
+      "AGRIC": "₦ 250",
+      "AGRIC IKORODU": "₦ 300",
+      "AGRIC KETU": "₦ 350",
+      "AHMADIYAH": "₦ 350",
+      "AIRPORT ROAD": "₦ 350",
+      "AJAH": "₦ 400",
+      "ALAPERE": "₦ 450",
+      "ALAUSA SECETARIAT": "₦ 450",
+      "APAPA WHARF": "₦ 450",
+      "AYOBO": "₦ 500",
+      "BENSON": "₦ 500",
+      "BERGER": "₦ 500",
+      "CELE EXPRESS": "₦ 350",
+      "CMS": "₦ 500",
+      "CMS (BROADSTREET)": "₦ 500",
+      "CMS (OBALENDE)": "₦ 500",
+      "CMS (OUTER MARINA)": "₦ 500",
+      "DOPEMU": "₦ 250",
+      "EKO HOTEL": "₦ 500",
+      "FESTAC": "₦ 450",
+      "IJAIYE": "₦ 350",
+      "IJEDE": "₦ 450",
+      "IJORA": "₦ 350",
+      "IKEJA": "₦ 400",
+      "IKEJA ALONG": "₦ 350",
+      "IKORODU": "₦ 500",
+      "IKORODU (STOPPING SERVICE)": "₦ 500",
+      "IKOTUN": "₦ 200",
+      "INNER MARINA": "₦ 450",
+      "ITAMAGA": "₦ 300",
+      "IYANA IPAJA": "₦ 300",
+      "IYANA OWORO": "₦ 300",
+      "AJAO JUNCTION": "₦ 150",
+      "KETU": "₦ 450",
+      "KETU (STOPPING SERVICE)": "₦ 450",
+      "KOLLINGTON": "₦ 350",
+      "LEVENTIS": "₦ 500",
+      "MARYLAND": "₦ 450",
+      "MEIRAN": "₦ 350",
+      "MILE 12": "₦ 400",
+      "OBALENDE": "₦ 400",
+      "OGOLONTO / MAJIDUN": "₦ 350",
+      "OJUBODE": "₦ 350",
+      "OWODE": "₦ 400",
+      "OWODE ONIRIN": "₦ 450",
+      "OWORO": "₦ 450",
+      "OSHODI": "₦ 350",
+      "OSHODI CAPPA": "₦ 350",
+      "OSHODI EXPRESS SERVICE": "₦ 350",
+      "PLEASURE": "₦ 400",
+      "SANGO": "₦ 500",
+      "SANGO TOLLGATE": "₦ 500",
+      "TBS": "₦ 400",
+      "TOLL GATE": "₦ 400",
+      "TOS BENSON": "₦ 350",
+      "UNILAG": "₦ 350",
+      "U TURN": "₦ 350",
+      "WHARF": "₦ 400",
+      "YABA": "₦ 350"
+    },
+    {
+      "Neoplan": [
+        {
+          "Model": "Neo 2020",
+          "Doors": "2",
+          "Seats": "30",
+          "Trans": "Automatic",
+          "AC": "Yes",
+          "images": "assets/img/bus/audi/coaches/neoplan/5.jpg"
+        }
+      ],
+      "Tourismo": [
+        {
+          "Model": "Tourismo 2020",
+          "Doors": "2",
+          "Seats": "30",
+          "Trans": "Automatic",
+          "AC": "Yes",
+          "images": "assets/img/bus/benz/coaches/tourismo/1.jpg"
+        }
+      ],
+      "Travego": [
+        {
+          "Model": "Travego 2020",
+          "Doors": "2",
+          "Seats": "30",
+          "Trans": "Automatic",
+          "AC": "Yes",
+          "images": "assets/img/bus/benz/coaches/travego/tav1.jpg"
+        }
+      ],
+      "Coaster": [
+        {
+          "Model": "Coaster 2020",
+          "Doors": "1",
+          "Seats": "30",
+          "Trans": "Manual",
+          "AC": "Yes",
+          "images": "assets/img/bus/toyota/coaches/coaster/coast1.jpg"
+        }
+      ],
+      "Hiace": [
+        {
+          "Model": "Hiace 2020",
+          "Doors": "2",
+          "Seats": "16",
+          "Trans": "Automatic",
+          "AC": "Yes",
+          "images": "assets/img/bus/toyota/neighbourhood/hiace/2.jpg"
+        }
+      ]
+    }
+  ],
+  "Bookings": [
+    {
+      "Breference": "BUS24-682782276",
+      "Bname": "Samuel Owolabi",
+      "Bemail": "jamesdaniel@gmail.com",
+      "Bphone": "08162500447",
+      "Bvehicle": "Audi",
+      "Btype": "Coaches",
+      "Bmodel": "Neoplan Skyline",
+      "Bloc": "Aba, Abia",
+      "Bpick": "12/27/2019",
+      "Bdrop": "12/28/2019",
+      "Bamount": "₦8999.00",
+      "id": 1
+    },
+    {
+      "Breference": "BUS24-524979858",
+      "Bname": "Jamesmaduka",
+      "Bemail": "jamesdaniel@gmail.com",
+      "Bphone": "08162500447",
+      "Bvehicle": "Mercedes-benz",
+      "Btype": "Coaches",
+      "Bmodel": "Benz Travego",
+      "Bloc": "Bauchi, Bauchi",
+      "Bpick": "12/27/2019",
+      "Bdrop": "12/31/2019",
+      "Bamount": "₦43996.00",
+      "id": 2
+    },
+    {
+      "Breference": "BUS24-155960121",
+      "Bname": "steven",
+      "Bemail": "Shhsgdggd@007.com",
+      "Bphone": "08146089071",
+      "Bvehicle": "Mercedes-benz",
+      "Btype": "Minibus",
+      "Bmodel": "Benz Metris",
+      "Bloc": "Abuja, FCT",
+      "Bpick": "01/02/2020",
+      "Bdrop": "01/03/2020",
+      "Bamount": "₦2999.00",
+      "id": 3
+    },
+    {
+      "Breference": "BUS24-98827786",
+      "Bname": "james maduka",
+      "Bemail": "jamesdaniel00700@gmail.com",
+      "Bphone": "08104450412",
+      "Bvehicle": "Mercedes-benz",
+      "Btype": "Coaches",
+      "Bmodel": "Benz Travego",
+      "Bloc": "Abuja, FCT",
+      "Bpick": "08/05/2021",
+      "Bdrop": "08/06/2021",
+      "Bamount": "₦10999.00",
+      "id": 4
+    },
+    {
+      "Breference": "BUS24-321518126",
+      "Bname": "james maduka",
+      "Bemail": "meh@mailf5.com",
+      "Bphone": "08100000000",
+      "Bvehicle": "Mercedes-benz",
+      "Btype": "Coaches",
+      "Bmodel": "Benz Travego",
+      "Bloc": "Benin City,%20Edo",
+      "Bpick": "08/07/2021",
+      "Bdrop": "08/13/2021",
+      "Bamount": "₦65994.00",
+      "id": 5
+    }
+  ]
+}
